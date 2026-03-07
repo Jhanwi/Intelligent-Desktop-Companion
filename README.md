@@ -10,32 +10,77 @@ The data in this project is nothing but user input,whatever the user says,the as
 </p>
 
 ## Aim
-- Replicate genuine auscultation scenarios to provide users with a realistic and immersive training environment.
-- Integrate accurate sound patterns and variations to closely mimic diverse patient conditions for enhanced authenticity.
-- Facilitate skill development by offering scenarios tailored to different proficiency levels, allowing users to progress from basic to advanced auscultation techniques.
-- Implement a system that provides constructive feedback to users, enabling them to identify and address specific areas for improvement.
-- Design an intuitive interface for easy navigation and interaction, ensuring accessibility for users with varying technical backgrounds.
-- Make the Auscultation Simulator available across different devices and platforms to maximize accessibility for healthcare professionals, students, and educators.
-
-## Project Scope
-<p>
-The project scope of the Auscultation Simulator encompasses the design and development of a sophisticated training and educational platform for auscultation skills in the medical field. This simulator aims to create a realistic and immersive environment, utilizing advanced sound patterns and variability to replicate authentic auscultation scenarios. The scope extends to providing users with a progressive learning experience, accommodating different skill levels and fostering continuous skill development. Seamless integration of the Django web framework for efficient server-side operations and the utilization of the Raspberry Pi 4 Model B for handling sound playback and real-time simulation are integral components of the project. The simulator's accessibility across various devices and platforms ensures its availability to a wide audience, including healthcare professionals, students, and educators, contributing to the advancement of auscultation proficiency in a controlled and risk-free setting.
+<p> 
+To enhance productivity and user experience by leveraging artificial intelligence to automate tasks, provide real-time information, and offer interactive, personalized   support in a compact, accessible form factor.  
 </p>
 
+## Project Scope
+- Task Automation & System Management: Developing a system capable of managing daily computing tasks, such as opening applications, setting reminders, organizing files, sending emails, and controlling system operations (e.g., locking/shutting down) through voice commands or text input.
+- Intelligent Interaction & Personalization: Implementing Natural Language Processing (NLP) and Machine Learning (ML) to facilitate natural, conversational interaction  (chat) and adapt to user preferences over time, including web searches, news/weather updates, and providing proactive, context-aware information. 
+
+  
 ## Technology Used:
 - #### Languages:
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+  - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+- #### Machine-Learning Algorithms:
+  - <a href="https://en.wikipedia.org/wiki/Natural_language_processing">**NATURAL LANGUAGE PROCESSING**</a>
+
+- #### ML/DL:
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 - #### IDE:
-  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-- #### OS Used for Testing:
-  - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+- #### OS used for testing:
+  - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- 
-- #### Version Control:
-  - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Project Installation:
+**STEP 1:** Clone the repository from GitHub.
+```bash
+  git clone https://github.com/Jhanwi/Intelligent-Desktop-Companion.git
+```
 
+**STEP 2:** Change the directory to the repository.
+```bash
+  cd Intelligent-Desktop-Companion
+```
+
+**STEP 3:** Create a virtual environment
+(For Windows)
+```bash
+  python -m venv virtualenv
+```
+(For MacOS and Linux)
+```bash
+  python3 -m venv virtualenv
+```
+
+**STEP 4:** Activate the virtual environment.
+(For Windows)
+```bash
+  virtualenv\Scripts\activate
+```
+(For MacOS and Linux)
+```bash
+  source virtualenv/bin/activate
+```
+
+**STEP 5:** Install the dependencies.
+```bash
+  python -m pip install -r requirements.txt
+```
+
+**STEP 7:** Run the application.
+(For Windows)
+```bash
+  python Zira_main.py
+```
+(For MacOS and Linux)
+```bash
+  python3 Zira_main.py
+```
+## Output Screen-shots:
