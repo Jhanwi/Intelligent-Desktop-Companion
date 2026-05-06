@@ -84,3 +84,39 @@ To enhance productivity and user experience by leveraging artificial intelligenc
   python3 Zira_main.py
 ```
 ## Output Screen-shots:
+#### When the assistant is loaded first it will greet the user
+![image](app/static/image/screen_shots/ss1.png)
+
+#### The assistant will display the news line by line and it will also read out the news
+![image](app/static/image/screen_shots/ss2.png)
+
+#### The assistant will search the query of user on GOOGLE
+![image](app/static/image/screen_shots/ss3.png)
+
+#### The assistant will search the query of user on YOUTUBE
+![image](app/static/image/screen_shots/ss4.png)
+
+#### The assistant will search the query given by user on WIKIPEDIA
+![image](app/static/image/screen_shots/ss5.png)
+
+#### The assistant will play a game with user whenever the user wants to play the game with assistant
+![image](app/static/image/screen_shots/ss6.png)
+
+#### The assistant will translate the sentence given by the user in the specified language selected by the user
+![image](app/static/image/screen_shots/ss1.png)
+
+#### The assistant will send an email according to the information given by the user
+![image](app/static/image/screen_shots/ss2.png)
+
+#### The assistant will oen notepad when the user gives the command
+![image](app/static/image/screen_shots/ss3.png)
+
+#### Other function :- Like set an alarm,tell the weather report, temperature, times, jokes, intenet speed, schedule a day for you,                              remember things for you,take a screenshot, shutdown the system,controlling the volume etc.
+
+![image](app/static/image/screen_shots/ss3.png)
+
+![image](app/static/image/screen_shots/ss4.png)
+
+![image](app/static/image/screen_shots/ss5.png)
+
+![image](app/static/image/screen_shots/ss6.png)
