@@ -1,4 +1,4 @@
-![zira](app/static/image/readme_banner.png)
+
 
 ## Introduction
 <p>
