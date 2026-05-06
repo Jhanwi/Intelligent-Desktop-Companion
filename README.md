@@ -100,23 +100,23 @@ To enhance productivity and user experience by leveraging artificial intelligenc
 ![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/search_wikipedia.jpg)
 
 #### The assistant will play a game with user whenever the user wants to play the game with assistant
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/game.jpg)
 
 #### The assistant will translate the sentence given by the user in the specified language selected by the user
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/translation.jpg)
 
 #### The assistant will send an email according to the information given by the user
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/message_gmail.jpg)
 
 #### The assistant will oen notepad when the user gives the command
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/open_notepad.jpg)
 
 #### Other function :- Like set an alarm,tell the weather report, temperature, times, jokes, intenet speed, schedule a day for you,                              remember things for you,take a screenshot,do a calculationfor you, shutdown the system,controlling the volume etc.
 
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/set_alarm.png)
 
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/ss.jpg)
 
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/calculate.png)
 
-![image]()
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/check_schedule%20and%20other%20features.png)
