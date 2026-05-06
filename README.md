@@ -91,32 +91,32 @@ To enhance productivity and user experience by leveraging artificial intelligenc
 ![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/newsread.jpg)
 
 #### The assistant will search the query of user on GOOGLE
-![image](app/static/image/screen_shots/ss3.png)
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/google_search.jpg)
 
 #### The assistant will search the query of user on YOUTUBE
-![image](app/static/image/screen_shots/ss4.png)
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/search_youtube.jpg)
 
 #### The assistant will search the query given by user on WIKIPEDIA
-![image](app/static/image/screen_shots/ss5.png)
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/search_wikipedia.jpg)
 
 #### The assistant will play a game with user whenever the user wants to play the game with assistant
-![image](app/static/image/screen_shots/ss6.png)
+![image]()
 
 #### The assistant will translate the sentence given by the user in the specified language selected by the user
-![image](app/static/image/screen_shots/ss1.png)
+![image]()
 
 #### The assistant will send an email according to the information given by the user
-![image](app/static/image/screen_shots/ss2.png)
+![image]()
 
 #### The assistant will oen notepad when the user gives the command
-![image](app/static/image/screen_shots/ss3.png)
+![image]()
 
 #### Other function :- Like set an alarm,tell the weather report, temperature, times, jokes, intenet speed, schedule a day for you,                              remember things for you,take a screenshot,do a calculationfor you, shutdown the system,controlling the volume etc.
 
-![image](app/static/image/screen_shots/ss3.png)
+![image]()
 
-![image](app/static/image/screen_shots/ss4.png)
+![image]()
 
-![image](app/static/image/screen_shots/ss5.png)
+![image]()
 
-![image](app/static/image/screen_shots/ss6.png)
+![image]()
