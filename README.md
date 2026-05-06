@@ -85,10 +85,10 @@ To enhance productivity and user experience by leveraging artificial intelligenc
 ```
 ## Output Screen-shots:
 #### When the assistant is loaded first it will greet the user
-![image](app/static/image/screen_shots/ss1.png)
+![image](screenshot/greet.png)
 
 #### The assistant will display the news line by line and it will also read out the news
-![image](app/static/image/screen_shots/ss2.png)
+![image](https://github.com/Jhanwi/Intelligent-Desktop-Companion/blob/main/screenshot/newsread.jpg)
 
 #### The assistant will search the query of user on GOOGLE
 ![image](app/static/image/screen_shots/ss3.png)
@@ -111,7 +111,7 @@ To enhance productivity and user experience by leveraging artificial intelligenc
 #### The assistant will oen notepad when the user gives the command
 ![image](app/static/image/screen_shots/ss3.png)
 
-#### Other function :- Like set an alarm,tell the weather report, temperature, times, jokes, intenet speed, schedule a day for you,                              remember things for you,take a screenshot, shutdown the system,controlling the volume etc.
+#### Other function :- Like set an alarm,tell the weather report, temperature, times, jokes, intenet speed, schedule a day for you,                              remember things for you,take a screenshot,do a calculationfor you, shutdown the system,controlling the volume etc.
 
 ![image](app/static/image/screen_shots/ss3.png)
 
